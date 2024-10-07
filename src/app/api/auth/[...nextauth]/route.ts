@@ -132,3 +132,4 @@ const registerHandler = async (req: NextApiRequest, res: NextApiResponse) => {
 };
 
 export { handler as GET, handler as POST, registerHandler as register };
+//
